@@ -6,11 +6,7 @@ using System.Threading.Tasks;
 
 namespace Test
 {
-    internal class Z
+    internal class MyClass
     {
-        public void ZZZ() 
-        {
-            Console.WriteLine("");
-        }
     }
 }
