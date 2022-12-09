@@ -2,8 +2,8 @@
 
 public class ClassA
 {
-    public int GetFive()
+    public int GetSix()
     {
-        return 5;
+        return 6;
     }
 }
