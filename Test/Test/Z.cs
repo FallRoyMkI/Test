@@ -8,5 +8,9 @@ namespace Test
 {
     internal class Z
     {
+        public void ZZZ() 
+        {
+            Console.WriteLine("");
+        }
     }
 }
